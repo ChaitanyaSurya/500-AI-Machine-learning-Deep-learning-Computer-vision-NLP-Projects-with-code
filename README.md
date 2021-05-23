@@ -77,4 +77,4 @@
 | 69.   | 100 + Computer vision Algorithm Implementation               | https://bit.ly/3rWgrzF              |
 | 70.   | 80 + Computer vision Learning code                           | https://bit.ly/3hKCpkm              |
 | 71.   | Deep learning Treasure                                       | https://bit.ly/359zLQb              |
-
+| 72.   | 60 Python Projects with Source Code                          | https://medium.com/coders-camp/60-python-projects-with-source-code-919cd8a6e512   |
